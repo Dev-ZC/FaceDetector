@@ -3,6 +3,8 @@
         "array": "cpp",
         "string": "cpp",
         "string_view": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "filesystem": "cpp",
+        "ostream": "cpp"
     }
 }
