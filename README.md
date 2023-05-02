@@ -1,4 +1,4 @@
-# FaceDetector
+# Face Detector and Face Image Save
 To Run the Project:
 
 1. Open file in VS Code (The environment is specifically made to run in VS Code)
