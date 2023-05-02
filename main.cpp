@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
             Image imgObj(img);
             path outputDir("../DetectedFaces"); // File path to output folder
             imgObj.save(outputDir);
-            cout << "Face detected! Image saved." << endl;
+            cout << "Face detected! New image saved." << endl;
         }
 
         imshow("Frame", img);
