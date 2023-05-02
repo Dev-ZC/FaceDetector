@@ -10,4 +10,4 @@ To Run the Project:
 
 To Edit Any Code:
 
-1. Type "make" into the terminal while inside the build folder, to have the project rebuilt and save any edits in the code
+1. Enter "make" command into the terminal while inside the build folder, to have the project rebuilt and save any edits in the code
