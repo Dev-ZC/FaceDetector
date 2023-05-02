@@ -1,5 +1,5 @@
 # FaceDetector
-RUN PROJECT:
+TO RUN THE PROJECT:
 
 (1)CD into the build folder via terminal ("cd ./build/")
 
